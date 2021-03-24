@@ -10,4 +10,4 @@ The prices of new cars in the industry is fixed by the manufacturer with some ad
 5. sklearn.
 6. pickle
 ### CREDITS
-Special thanks to Mr.Krish Naik Sir for explaining this project through their Youtube channel. (You can find more such informative content on his channel
+Special thanks to Mr.Krish Naik Sir for explaining this project through their Youtube channel. (You can find more such informative content on his channel)
